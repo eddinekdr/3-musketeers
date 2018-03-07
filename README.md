@@ -17,6 +17,9 @@
 
 ## Introduction
 
+First of all, this workshop will help us to understand how to recover some code.
+Thusfore, we will apply differents methods for test a code.
+
 Coding is not only to write code.
 
 ## Objective - Workshop in 1 sentence
