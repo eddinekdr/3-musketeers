@@ -22,7 +22,7 @@ console.log(coins);
 
 ### Install
 
-Your project can work only with the following command in the cash folder : 
+Your project can work only with the following command in the BITCOIN folder : 
 
 ? npm install
 
