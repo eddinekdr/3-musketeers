@@ -1,4 +1,4 @@
-# bitcoin
+﻿# bitcoin
 
 ## Features
 
@@ -18,6 +18,16 @@ console.log(coins);
 ```
     
 ## API
+
+
+### Install
+
+Your project can work only with the following command in the cash folder : 
+
+? npm install
+
+This command will install all the librairies required for the project.
+The librairies are specified in 'package.json'.
 
 ### btcConvert (from, fromUnit, toUnit, [representation])
 
